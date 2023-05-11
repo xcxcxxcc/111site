@@ -1,85 +1,41 @@
-.header {
-    background-color: rgba(10,20,30,0.3);
-    border: 0px solid #000; /* додаємо рамку */
-    padding: 20px; /* відступи всередині заголовка */
-    height: 50px;
-}
-
-h1 {
-    color: #fff; /* змінюємо колір тексту */
-    margin: 0; /* видаляємо зовнішні відступи */
-    margin-left: 25px;
-    font-size: 45px;
-}
-
-nav ul {
-    list-style: none; /* видаляємо маркери списку */
-    margin: 0;
-    padding: 0;
-}
-
-nav li {
-    display: inline-flex; /* розміщуємо елементи списку в ряд */
-    padding: 25px;
-    margin-top: -25px;
-}
-.contact{
-    margin-left: 1100px;
-}
-
-nav li  {
-    margin-right: 0px; /* видаляємо відстань для останнього елементу */
-    font-size: 25px;
-}
-
-nav a {
-    color: #fff; /* змінюємо колір тексту посилань */
-    text-decoration: none; /* видаляємо підкреслення */
-    padding: 5px 10px; /* відступи всередині кнопки */
-    border: 2px solid #fff; /* додаємо рамку */
-    border-radius: 10px; /* закруглюємо кути */
-}
-
-nav a:hover {
-    background-color: #fff; /* змінюємо фон кнопки при наведенні курсора */
-    color: #333; /* змінюємо колір тексту при наведенні курсора */
-}
-body{
-    margin: 0;
-    background-image: url("img/imgonline-com-ua-Resize-WEEeitGuBskv.jpg");
-    background-repeat: no-repeat;
-    background-size: cover ;
+html {
+    font-size: 10px;
     font-family: 'Open Sans', sans-serif;
 }
-P{
+
+
+h1 {
     font-size: 60px;
-    margin-left: 550px;
-    color: gainsboro;
-    margin-top: 300px;
+    text-align: center;
 }
-.chiks{
-    font-size: 60px;
-    margin-left: 785px;
-    color: gainsboro;
-    margin-top: -75px;
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
 }
-@font-face {
-    font-family: myFont;
-    src: url('img/Gilroy-Regular.ttf');
+
+
+html {
+    background-color: #00539F;
 }
 
 body {
-    font-family: myFont, sans-serif;
-}
-.years{
-    font-size: 60px;
-    margin-left: 985px;
-    color: gainsboro;
-    margin-top: -75px;
-}
-.inst{
-    width: 60px;
-    margin-left: 1500px;
-    margin-top: 800px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
 }
 
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
