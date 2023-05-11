@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b7c8ae0-42d7-45c9-8898-286c4c9d28da" name="Changes" comment="" />
+    <list default="true" id="7b7c8ae0-42d7-45c9-8898-286c4c9d28da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MyProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/firefox-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/meepo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Git-2.40.1-64-bit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprojects.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myprojects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prostir.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prostir.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
