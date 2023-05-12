@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b7c8ae0-42d7-45c9-8898-286c4c9d28da" name="Changes" comment="" />
+    <list default="true" id="7b7c8ae0-42d7-45c9-8898-286c4c9d28da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,7 @@
       <workItem from="1683629445743" duration="17572000" />
       <workItem from="1683821059457" duration="1988000" />
       <workItem from="1683825831314" duration="596000" />
-      <workItem from="1683865071120" duration="1938000" />
+      <workItem from="1683865071120" duration="2259000" />
     </task>
     <servers />
   </component>
